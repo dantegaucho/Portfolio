@@ -8,6 +8,9 @@ This is my personal data science portfolio built with Streamlit. It showcases my
 - 📉 Customer Churn Prediction ([GitHub](https://github.com/dantegaucho/Customer-churn))
 - 🎬 Movie Recommendation System ([GitHub](https://github.com/dantegaucho/Movie-recommendation-system))
 
+## My resume
+
+[Link here](https://drive.google.com/drive/folders/1GKQli3l445pGSjeTwFbF8Yceocf-AWIJ)
 ## 📦 Requirements
 
 Install dependencies:
@@ -20,4 +23,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+
 
