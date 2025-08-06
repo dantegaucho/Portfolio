@@ -12,6 +12,30 @@ This is my personal data science portfolio built with Streamlit. It showcases my
 Find my full resume on the link below.
 [Here](https://drive.google.com/drive/folders/1GKQli3l445pGSjeTwFbF8Yceocf-AWIJ)
 
+#Sure! Here's a solid **Skills** and **Contact** section you can use in your GitHub `README.md`, your Streamlit app, or LinkedIn profile:
+
+---
+
+### ⚙️ Skills
+
+* **Languages & Tools**: Python, SQL, Jupyter, Streamlit, Git
+* **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn
+* **Machine Learning**: Regression, Classification, Time Series, Recommendation Systems
+* **Data Analysis**: Data Cleaning, EDA, Feature Engineering
+* **Visualization**: Power BI, Streamlit, Matplotlib, Seaborn
+* **Soft Skills**: Communication, Teamwork, Adaptability, Decision Support
+* **Other Tools**: Microsoft Excel, Google Sheets, VS Code
+
+---
+
+### 📬 Contact Me
+
+* **📧 Email**: [dantegaucho@gmail.com](mailto:danmutiso17@gmail.com)
+* **🔗 GitHub**: [github.com/dantegaucho](https://github.com/dantegaucho)
+* **🔗 LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dmutiso/)
+
+---
+
 ## 📦 Requirements
 
 Install dependencies:
@@ -24,6 +48,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+
 
 
 
