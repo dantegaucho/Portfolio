@@ -1,0 +1,14 @@
+# Files to ignore in the repository
+.gitignore
+# Ignore Python bytecode files
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+# Ignore log files
+*.log
+# Ignore cache directories
+__pycache__/
+# Ignore data files
+data/
