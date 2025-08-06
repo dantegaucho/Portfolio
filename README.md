@@ -1,4 +1,4 @@
-# Daniel Mutiso | Data Science Portfolio
+# Daniel Mutiso | Portfolio
 
 This is my personal data science portfolio built with Streamlit. It showcases my projects, skills, and contact information.
 
@@ -20,3 +20,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+
