@@ -9,8 +9,9 @@ This is my personal data science portfolio built with Streamlit. It showcases my
 - 🎬 Movie Recommendation System ([GitHub](https://github.com/dantegaucho/Movie-recommendation-system))
 
 ## My resume
+Find my full resume on the link below.
+[Here](https://drive.google.com/drive/folders/1GKQli3l445pGSjeTwFbF8Yceocf-AWIJ)
 
-[Link here](https://drive.google.com/drive/folders/1GKQli3l445pGSjeTwFbF8Yceocf-AWIJ)
 ## 📦 Requirements
 
 Install dependencies:
@@ -23,5 +24,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+
 
 
