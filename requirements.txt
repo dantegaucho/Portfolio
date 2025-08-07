@@ -6,5 +6,4 @@ seaborn
 scikit-learn
 plotly
 streamlit-aggrid
-# profile.py
-import streamlit as st
+joblib
